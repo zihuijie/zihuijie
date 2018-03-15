@@ -1,31 +1,40 @@
 ---
-title: "Contact me"
+title: "Portfolio"
 layout: page
 path: "/portfolio"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+Big thank you to Gatsby, I built my [first blog](https://zihuijie.github.io/) with Gatsby. It provided me everything I needed for building a blog. 
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+This is my new blog, I used [Gatsbe Starter Template](https://github.com/alxshelepenok/gatsby-starter-lumen), since I want to try out different packages and deploy on netlify.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](./1.jpg)
+![Bhttps://unsplash.com/@laurent_peignaul](./1.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*By Laurent Peignault.*
 
-## Header Level 2
+## My first web site [Drygon Consulting Inc.](https://drygon.ca)
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+This website provide " A Guide to Superior Engineering and Project Execution Using the Unique Discipline Interface Charts"
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
+**Made with** 
++ ReactJs, Redux, Redux-devtools, Redux-Form, React-Router
++ Javascript, HTML5, CSS3, ReactStrap, Bootstrap4
++ Firebase, Firebase Functions, NodeMailer
++ Google Analytic
++ Github
 
-### Header Level 3
+### My second web site [Ann S. Xie Professional Corporation](https://annsxie.firebaseapp.com/)
 
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
+**Made with** 
++ ReactJs, Redux, Redux-devtools, Redux-Form, React-Router
++ Javascript, HTML5, CSS3, reline, styled-components, Prettier
++ Firebase
++ gh-pages, Github
 
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
+### My first blog [zihuijie.github.io](https://zihuijie.github.io) 
 
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. 
+**Made with** 
++ ReactJs, Gatsby, Markdown
++ Javascript, HTML5, CSS3, Semantic-Ui-React
++ Firebase
++ gh-pages, Github
